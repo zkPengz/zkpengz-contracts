@@ -55,4 +55,4 @@ npx hardhat deploy --network zkTestnet
 ```
 
 # License
-Distributed under MIT licence.
+Distributed under MIT license.
